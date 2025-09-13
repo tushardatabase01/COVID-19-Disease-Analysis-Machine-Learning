@@ -43,7 +43,7 @@ Matplotlib, Seaborn – Visualization
 
 Scikit-learn – Machine Learning models
 
-Statsmodels / Prophet – Time Series forecasting (if used)
+Statsmodels / Prophet – Time Series forecasting 
 
 ## Workflow
 
